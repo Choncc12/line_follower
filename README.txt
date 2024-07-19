@@ -1,3 +1,7 @@
+kod jest w pliku sketch coś tam 
+na razie zrobiłem coś takiego żeby ta licencja MIT była ok.
+
+
 ***************************************************************
 * Arduino PID Library - Version 1.2.1
 * by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
