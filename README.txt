@@ -1,6 +1,6 @@
 kod jest w pliku sketch coś tam 
 na razie zrobiłem coś takiego żeby ta licencja MIT była ok.
-
+I nie trzeba było skakać do repozytorium od PID-u.
 
 ***************************************************************
 * Arduino PID Library - Version 1.2.1
